@@ -1,7 +1,4 @@
-from src import fetch_data
-from src import strategy
-from src import backtest
-from src import visualization
+from src import backtest, fetch_data, strategy, visualization
 
 
 def main():
